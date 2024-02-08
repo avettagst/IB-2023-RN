@@ -6,7 +6,7 @@ Códigos hechos en la materia Redes Neuronales, dada para la carrera de Ingenier
 -----------------------------------------------------------------------------------------------------------------------------------
 ### Balseiro Institute - Neural Networks
 
--P1: Goldman Equation (p1_ej03), Hogdkin-Huxley model and its simplifications (p1_ej04/05)
+-P1: Goldman Equation (p1_ej03), Hogdkin-Huxley model and its simplifications (p1_ej04/05)\\
 -P2: Coupled Hodgkin-Huxley neurons
 -P3: Spike trains statistics
 -P4: Supervised learning in multilayer networks, with _hand-made_ back-propagation algorithm (p4_ej01) and with _tensorflow.keras_ (p4_ej02/03)
